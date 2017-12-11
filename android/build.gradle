@@ -20,6 +20,6 @@ android {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile 'com.android.support:recyclerview-v7:26.0.1'
+    compile 'com.android.support:recyclerview-v7:26.1.0'
     compile group: 'com.drewnoakes', name: 'metadata-extractor', version: '2.11.0'
 }
